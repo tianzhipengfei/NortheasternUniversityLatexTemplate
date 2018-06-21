@@ -1,0 +1,2 @@
+# NortheasternUniversityLatexTemplate
+东北大学本科毕业设计模板
